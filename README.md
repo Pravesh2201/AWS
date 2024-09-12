@@ -47,7 +47,7 @@ Must Do
 
 # Create a autoscaling group using target traking policy and add the created launch template in it.
 
-# Here I select the minimum and desired value 1 and max 3.
+# Here I select the minimum and desired value 1 and max 2.
 ![ASG](https://github.com/user-attachments/assets/df0ebb3e-d534-4017-b5a8-9520f7645fde)
 ![ASG2](https://github.com/user-attachments/assets/e7f99578-ce14-4360-8ba3-c182bbb6282c)
 
